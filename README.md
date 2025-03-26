@@ -27,13 +27,13 @@ cd Restorent-website
 
 2️⃣ Install Dependencies
 Frontend -
-cd frontend
-npm install
+cd frontend,
+npm install,
 npm run dev
 
 Backend -
-cd backend
-npm install
+cd backend,
+npm install,
 npm start
 
 3️⃣ Run the App
